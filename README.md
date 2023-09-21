@@ -1,4 +1,4 @@
-<img align="center" alt="image_welcome" width="1200" height="320" src="https://i.pinimg.com/564x/8c/d6/7a/8cd67a068bd8ba2c82fb45d9872d2c54.jpg">
+<img align="center" alt="image_welcome" object-fit="cover" width="1200" height="240" src="https://i.pinimg.com/564x/8c/d6/7a/8cd67a068bd8ba2c82fb45d9872d2c54.jpg">
 
 <h2 align="center"> Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h2>
 
