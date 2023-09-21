@@ -24,6 +24,9 @@
   <img align="center" target="_blank" alt="Discord" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
 </p>
 
+</br>
+</br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/augusto-schmidt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/augustoschmidt_" target="_blank"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
