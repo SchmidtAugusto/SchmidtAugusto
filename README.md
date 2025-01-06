@@ -11,6 +11,7 @@
   <img align="center" target="_blank" alt="Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" target="_blank" alt="Rails" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img align="center" target="_blank" alt="React" height="40" width="40" src="https://img.jsdelivr.com/raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg">
+  <img align="center" target="_blank" alt="ReactJs" height="40" width="40" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage-thumbnail.png">
   <img align="center" target="_blank" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" target="_blank" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" target="_blank" alt="Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
@@ -27,7 +28,6 @@
   <img align="center" target="_blank" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" target="_blank" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" target="_blank" alt="Discord" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
-  <img align="center" target="_blank" alt="ReactJs" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
   
 </p>
 
