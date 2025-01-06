@@ -27,7 +27,7 @@
   <img align="center" target="_blank" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" target="_blank" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" target="_blank" alt="Discord" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
-  <img align="center" target="_blank" alt="ReactJs" height="40" width="40" src="[https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.claronetempresarial.com.br%2F%3Fa%3D25880458620&psig=AOvVaw1dcArx_14bWINZ4UgbKxp1&ust=1736276957909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMigge7l4YoDFQAAAAAdAAAAABAJ)">
+  <img align="center" target="_blank" alt="ReactJs" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
   
 </p>
 
